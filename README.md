@@ -7,7 +7,7 @@ Kalkulatoros un citās sadzīves iekārtās izmanto tā sauktos matricu ekrānus
 
 ## Specifikācija:
 Izveidot programmu, kura pieprasa ievadīt trīsciparu skaitli un izvada to konsolē ar
-ciprariem, kuru augstums ir 5 rindiņas un platums - 3 simboli. Cipari tiek veidoti,
+cipariem, kuru augstums ir 5 rindiņas un platums - 3 simboli. Cipari tiek veidoti,
 izmantojot simbolu "#". Skaitļus, kas mazāki par 100 (t.i., kuros ir mazāk par trim
 cipariem), jāizvada, izmantojot nulles simbolus pirms tiem.<br>
 Dots programmas fails *cipari.py*, kurā nodefinēts daudzdimensiju saraksts ar grafiskiem cipariem 0 - 9. Dota arī ievada funkcija.
