@@ -1,7 +1,7 @@
 # Lielie cipari
 
 ## Problēmas apraksts:
-Kalkulatoros un citās sadzīves iekārtās izmanto tā sauktos matricu ekrānus, kur katrs cipars veidots no grafiskiem elementiem, kas izkārtoti noteiktā veidā.
+Kalkulatoros un citās sadzīves iekārtās izmanto tā sauktos matricu ekrānus, kur katrai rakstzīmei tiek lietota speciāla grafisku elementu kombinācija, kas atveido attiecīgo rakstzīmi. Šo kombināciju nosaka īpašs algoritms.
 
 ![Digits](/digits.png)
 
